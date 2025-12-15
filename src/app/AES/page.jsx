@@ -1,4 +1,3 @@
-import Link from "next/link"
 import "../../Styles/AES.css"
 import Image from "next/image"
 
@@ -19,7 +18,6 @@ export default function AES(){
  high-risk environments.</p>
           </div>
           <div className="col2_AES">
-{/* <Image src="/images/Advance-Lightning.png" width={300} height={300} alt="Advance-Lightning" /> */}
 <Image src="/images/ALS11.jpeg" width={300} height={300} alt="Advance-Lightning" />
           </div>
         </div>
