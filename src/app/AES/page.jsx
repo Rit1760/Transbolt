@@ -9,6 +9,7 @@ export default function AES(){
         <div className="row1_AES">
           <div className="col1_AES">
             <h2><span style={{color:"#d6d007ff"}}> NIVARAK </span>-Advanced Lightning Prevention System</h2>
+            <h3>Powered by CMCE Technology</h3>
             <p> Certified Protection You Can Trust
  Our UL-Certified Lightning Prevention System
  offers state-of-the-art electrostatic field
