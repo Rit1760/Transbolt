@@ -162,7 +162,8 @@ useEffect(() => {
             <div className="row2_HOme">
                 <div className="col4_Home">
                     <img src="./images/page1.png" width="300px"/>
-                    <h3>Advance  IS/IEC Lightning Protection</h3>
+                    {/* <h3>Advance  IS/IEC Lightning Protection</h3> */}
+                    <h3>Advanced Lightning prevention</h3>
                     <p>With extensive expertise, we offer 
 cutting-edge lightning protection
  design to safeguard critical Infras-

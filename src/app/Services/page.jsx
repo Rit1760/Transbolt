@@ -12,7 +12,7 @@ export default function Solutions(){
             <div className="row1_Service">
                 <div className="col1_Service">
                     <Image src="/images/page1.png" width={250} height={290} alt="page1"/>
-                    <h3>Advance Lightning Services</h3>
+                    <h3>Advanced Lightning Services</h3>
                     <Link href="./ALSser">Read more</Link>
                 </div>
                 <div className="col2_Service">

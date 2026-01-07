@@ -76,7 +76,7 @@ export default function About() {
       <div className="about-column2 about-column">
         <Image src="/images/devesh1.jpg" width={290} height={390} alt="devesh1" />
         <h3>Devesh Kr Jaiswal</h3>
-        <h4>CTO & COO</h4>
+        <h4>CTO</h4>
         <a href='#' className="read-more" onClick={handleReadMoreClick1}>Read more</a>
       </div>
     </div>
@@ -111,7 +111,7 @@ export default function About() {
         </div>
         <div className='col5_About_Popup'>
        <h3>Devesh Kr Jaiswal</h3><Link href="https://www.linkedin.com/in/devesh-jaiswal-abab9925/"><FontAwesomeIcon icon={faLinkedin} style={{fontSize:"30px",color:"#1f90ff",marginBottom:"10px",cursor:"pointer"}}/></Link>
-        <h4>CTO & COO</h4>
+        <h4>CTO</h4>
         </div>
       </div>
       <div className='row4_About_Popup'>
@@ -134,7 +134,7 @@ export default function About() {
         </div>
         <div className='col8_About_Popup'>
    <h3>Arnav Malik</h3><Link href="https://www.linkedin.com/in/arnav-malik-/"><FontAwesomeIcon icon={faLinkedin} style={{fontSize:"30px",color:"#1f90ff",marginBottom:"10px",cursor:"pointer"}}/></Link>
-        <h4>Marketing Strategist</h4>
+        <h4>Business Operations</h4>
         </div>
       </div>
       <div className='row6_About_Popup'>
@@ -177,7 +177,7 @@ export default function About() {
       <div className="about-column3 about-column">
         <Image src="/images/Arnav.png" width={290} height={405} alt="Arnav" />
         <h3>Arnav Malik</h3>
-        <h4>Marketing Strategist</h4>
+        <h4>Business Operations</h4>
         <a href='#' className="read-more" onClick={handleReadMoreClick2}>Read more</a>
       </div>
       <div className="about-column4 about-column">
