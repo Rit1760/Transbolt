@@ -194,7 +194,7 @@ performance energy infrastructure</p>
                 </div>
                 <div className="col7_Home">
                     <img src="./images/page4.png" width="300px"/>
-<h3>Advance UL certified Fire Safety solution</h3>
+<h3>Advanced UL certified Fire Safety solution</h3>
 <p>Our commitment to enhancing fire safety is 
 recognized through the implementation of 
 advanced UL-approved fire suppression 

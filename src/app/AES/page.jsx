@@ -8,7 +8,7 @@ export default function AES(){
       <div className="container1_AES">
         <div className="row1_AES">
           <div className="col1_AES">
-            <h2><span style={{color:"#c1bb06ff"}}> NIVARAK </span>Comprehensive Lightning Prevention System</h2>
+            <h2><span style={{color:"#F6BE00"}}> NIVARAK </span>Comprehensive Lightning Prevention System</h2>
             <h3>Powered by CMCE Technology by SERTEC</h3>
             <p> Certified Protection You Can Trust
  Our UL-Certified Lightning Prevention System

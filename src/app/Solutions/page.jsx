@@ -15,7 +15,7 @@ export default function Solutions(){
                 </div>
                 <div className="col2_Solutions">
                     <Image src="/images/ltpt.jpg" width={250} height={290} alt="two2"/>
-                    <h3>Advance Lightning System</h3>
+                    <h3>Advanced Lightning System</h3>
                     <Link href="./ALS">Read more</Link>
                 </div>
             </div>
@@ -34,7 +34,7 @@ export default function Solutions(){
         <div className="row3_Solutions">
             <div className="col5_Solutions">
                     <Image src="/images/Fire-Safety.png" width={250} height={277} alt="five5"/>
-                    <h3>Advance UL Certified Fire Safety Solution</h3>
+                    <h3>Advanced UL Certified Fire Safety Solution</h3>
                     <Link href="./AUS">Read more</Link>
             </div>
                        <div className="col6_Solutions">
