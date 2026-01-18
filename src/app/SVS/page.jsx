@@ -9,7 +9,22 @@ export default function SVS(){
                     <img src="/images/Solar-EPC.png" width={333} height={303} alt="Solar-EPC"/>
                 </div>
                 <div className="col2_SVS">
-                    <p>Transbolt supports solar and battery storage projects with reliable earthing, surge, and lightning protection systems. Our solutions ensure the safety, stability, and longevity of renewable energy infrastructure across all scales — from rooftop setups to utility-scale plants.</p>
+                    {/* <p>Transbolt supports solar and battery storage projects with reliable earthing, surge, and lightning protection systems. Our solutions ensure the safety, stability, and longevity of renewable energy infrastructure across all scales — from rooftop setups to utility-scale plants.</p> */}
+               <p>Transbolt is actively executing Solar EPC projects for industrial
+facilities, data centers, and commercial establishments — with
+system capacities of up to 20MW.
+With a strong foundation in power safety, grounding, and
+electrical engineering, we bring the same precision and
+reliability to our solar initiatives.</p>
+<p>Our approach encompasses end-to-end engineering,
+procurement, and construction (EPC) solutions — delivering
+optimised solar plants designed for maximum efficiency and
+long-term sustainability.</p>
+<p>Having contributed to the successful deployment of over 500+
+solar power projects across India through strategic
+collaborations, we are committed to powering India’s green
+future with intelligent, tech-driven solutions tailored for the
+energy demands of tomorrow.</p>
                 <li> End-to-end Solar EPC solutions for small & medium-scale projects</li>
                 <li> Cutting-edge engineering with efficient procurement</li>
                 <li> Reliable, sustainable infrastructure via solar innovation</li>
