@@ -241,6 +241,7 @@ across sectors like energy, transport, and telecom.</p>
            <FontAwesomeIcon icon={faArrowUp} style={{ color: "#2391fb" }} />
           </div>
 
+
           {names.map((name, i) => {
 
             const isNext = i === (currentIndex + 1) % names.length;
