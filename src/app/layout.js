@@ -5,7 +5,7 @@ import gsap from 'gsap';
 import Header from "../Components/Header.jsx";
 import Footer from "../Components/Footer.jsx";
 import Loading from "./Loading.jsx"; 
-import './globals.css';
+// import './globals.css';
 
 
 export default function RootLayout({ children }) {
