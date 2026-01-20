@@ -110,12 +110,14 @@ UN38.3\UN3536; 93% system efficiency</li>
 
         }
           .col2_BESS h4{
-          font-family:"poppins"
+          font-family:"poppins";
+          font-weight:400;
+           padding: 4px;
+          color:#064451;
           
           }
           .col2_BESS h3{
             font-family:"poppins"
-          
           }
 
         @media (max-width: 768px) {
