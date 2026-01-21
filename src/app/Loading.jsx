@@ -34,7 +34,7 @@ export default function LoadingWrapper({ children }) {
       }}>
         <span className="fade-text">
           THE POWER TO PROTECT<br />
-          <span style={{ color: "#ffffff" , fontSize:"30px"}}>Welcome to TRANSBOLT</span>
+          <span style={{ color: "#ffffff" , fontSize:"30px"}}>Welcome to TRAANSBOLT</span>
         </span>
         <style jsx>{`
           @keyframes fadeIn {
