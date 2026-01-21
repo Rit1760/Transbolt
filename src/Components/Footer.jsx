@@ -27,7 +27,8 @@ export default function Footer() {
 
         <div className="row2_footer">
           <div className="col4_footer">
- <Image src="/images/foot-tblt.png" width={250} height={180} alt="foot-tblt"/>
+ <Image src="/images/TRANS2R.png" width={270} height={180} alt="foot-tblt"/>
+ {/* <Image src="/images/foot-tblt.png" width={250} height={180} alt="foot-tblt"/> */}
           </div>
   
           <div className="col5_footer">
@@ -105,7 +106,7 @@ export default function Footer() {
       </div>
 
       <h3 style={{ textAlign: "center", marginTop: "2rem" }}>
-        © 2025–present TRANSBOLT. All Rights Reserved.
+        © 2025–present TRAANSBOLT. All Rights Reserved.
       </h3>
     </footer>
   );

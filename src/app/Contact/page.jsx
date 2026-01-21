@@ -12,7 +12,7 @@ export default function Contact() {
   return (
     <>
       <Head>
-        <title>Contact Us | Transbolt Lightning Protection India</title>
+        <title>Contact Us | Traansbolt Lightning Protection India</title>
         <meta
           name="description"
           content="Get in touch with Transbolt for lightning protection solutions, consultations, and service inquiries. We're here to help you stay protected."
@@ -49,7 +49,7 @@ export default function Contact() {
         <div className="container2_contact">
           <div className="row2_contact">
             <div className="col2_contact">
-              <h3>TRANSBOLT</h3>
+              <h3>TRAANSBOLT</h3>
               <h2>Get in touch with us!</h2>
             </div>
           </div>

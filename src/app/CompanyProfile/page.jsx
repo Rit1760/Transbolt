@@ -40,7 +40,7 @@ export default function CompanyProfile() {
   return (
     <>
       <Head>
-        <title>About Us | Transbolt Lightning Protection Experts</title>
+        <title>About Us | Traansbolt Lightning Protection Experts</title>
         <meta
           name="description"
           content="CompanyProfile Transbolt – India&apos;s trusted provider of lightning protection systems, earthing solutions, and surge protection. Experience. Innovation. Safety."
@@ -75,10 +75,10 @@ export default function CompanyProfile() {
       </div>
 
       <div className="container4_CF">
-        <h2>How Transbolt Helps</h2>
+        <h2>How Traansbolt Helps</h2>
         <div className="row7_CF">
           <div className="col9_CF">
-            <h2>TRANSBOLT</h2>
+            <h2>TRAANSBOLT</h2>
           </div>
           <div className="col10_CF">
             <Image src="/images/BIS.jpg" width={200} height={162} alt="BIS" />
@@ -157,7 +157,7 @@ export default function CompanyProfile() {
               protection, and over-voltage protection by delivering innovative,
               reliable, and comprehensive solutions for the most critical and
               complex projects. We envision a world where every structure — from
-              high-rise towers to transport systems — is protected by intelligent,
+              high-rise towers to traansport systems — is protected by intelligent,
               sustainable, and expertly engineered electrical safety systems. Through
               technological excellence, deep domain expertise, and a relentless
               focus on quality, we aim to empower progress while ensuring people,
