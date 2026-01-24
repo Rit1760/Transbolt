@@ -7,7 +7,6 @@ import Footer from "../Components/Footer.jsx";
 import Loading from "./Loading.jsx"; 
 // import './globals.css';
 
-
 export default function RootLayout({ children }) {
   useEffect(() => {
     const crsr = document.querySelector("#crsr");

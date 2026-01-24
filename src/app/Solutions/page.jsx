@@ -11,11 +11,11 @@ export default function Solutions(){
                 <div className="col1_Solutions">
                     <Image src="/images/ALS11changed.png" width={250} height={277} alt="one1"/>
                     {/* <Image src="/images/ALS11.jpeg" width={250} height={277} alt="one1"/> */}
-                    <h3>Lightning Prevention System</h3>
+                    <h3>CMCE Prevention System</h3>
                     <Link href="./AES">Read more</Link>
                 </div>
                 <div className="col2_Solutions">
-                    <Image src="/images/ltptchanged.png" width={250} height={290} alt="two2"/>
+                    <Image src="/images/itpcdchangedd.png" width={250} height={290} alt="two2"/>
                     {/* <Image src="/images/ltpt.jpg" width={250} height={290} alt="two2"/> */}
                     <h3>Advanced Lightning System</h3>
                     <Link href="./ALS">Read more</Link>

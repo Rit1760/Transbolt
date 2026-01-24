@@ -7,7 +7,8 @@ export default function ALS(){
         <div className="container1_ALS">
             <div className="row1_ALS">
                 <div className="col1_ALS">
-<Image src="/images/ltpt.jpg" width={333} height={340} alt="two22"/>
+<Image src="/images/itpcdchangedd.png" width={333} height={340} alt="itpcdchangedd.png"/>
+{/* <Image src="/images/ltpt.jpg" width={333} height={340} alt="two22"/> */}
                 </div>
                 <div className="col2_ALS">
 <p>Transbolt's advanced lightning systems are engineered to safely redirect lightning strikes and protect critical infrastructure from damage. Designed for high performance and reliability, our solutions ensure uninterrupted safety in even the most demanding environments.</p>
