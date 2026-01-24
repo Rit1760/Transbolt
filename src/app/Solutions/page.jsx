@@ -11,7 +11,7 @@ export default function Solutions(){
                 <div className="col1_Solutions">
                     <Image src="/images/ALS11changed.png" width={250} height={277} alt="one1"/>
                     {/* <Image src="/images/ALS11.jpeg" width={250} height={277} alt="one1"/> */}
-                    <h3>CMCE Prevention System</h3>
+                    <h3>CMCE Lightning Prevention</h3>
                     <Link href="./AES">Read more</Link>
                 </div>
                 <div className="col2_Solutions">
