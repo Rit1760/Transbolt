@@ -163,7 +163,7 @@ useEffect(() => {
                 <div className="col4_Home">
                     <img src="./images/page1.png" width="300px"/>
                     {/* <h3>Advance  IS/IEC Lightning Protection</h3> */}
-                    <h3>Advanced Lightning prevention</h3>
+                    <h3>CMCE Lightning prevention</h3>
                     <p>With extensive expertise, we offer 
 cutting-edge lightning protection
  design to safeguard critical Infras-
@@ -208,7 +208,8 @@ measures.</p>
         <div className="container3_Home">
             <div className="row3_Home">
                 <div className="col8_Home">
-<img src="./images/logo1122.png" alt='logo1122' width={520}/>
+<img src="./images/logo112.jpeg" alt='logo1122' width={520}/>
+{/* <img src="./images/logo1122.png" alt='logo1122' width={520}/> */}
                 </div>
                 <div className="col9_Home">
                     <h2>
