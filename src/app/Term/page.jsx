@@ -7,20 +7,20 @@ const Term = () => {
   return (
     <>
       <Head>
-        <title>Terms and Conditions | Transbolt Lightning Protection</title>
+        <title>Terms and Conditions | Traansbolt Lightning Protection</title>
         <meta
           name="description"
-          content="Review the terms and conditions for using Transbolt, India's trusted lightning protection solutions provider."
+          content="Review the terms and conditions for using Traansbolt, India's trusted lightning protection solutions provider."
         />
         <meta name="robots" content="index, follow" />
-        <meta property="og:title" content="Transbolt | Lightning Protection Terms and Conditions" />
+        <meta property="og:title" content="Traansbolt | Lightning Protection Terms and Conditions" />
         <meta
           property="og:description"
-          content="Understand your rights and responsibilities while using the Transbolt website. Learn about legal terms, user responsibilities, and privacy."
+          content="Understand your rights and responsibilities while using the Traansbolt website. Learn about legal terms, user responsibilities, and privacy."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.transbolt.in/terms" />
-        <meta property="og:site_name" content="Transbolt" />
+        <meta property="og:url" content="https://www.traansbolt.in/terms" />
+        <meta property="og:site_name" content="Traansbolt" />
       </Head>
 
       <div className="container1_Term">
@@ -29,7 +29,7 @@ const Term = () => {
         <div className="col1_Term">
           <p>Effective Date: June 9, 2025</p>
           <p>
-            These Terms and Conditions ("Terms") govern your use of the website operated by <strong>Transbolt</strong>,
+            These Terms and Conditions ("Terms") govern your use of the website operated by <strong>Traansbolt</strong>,
             a company specializing in lightning protection solutions. By accessing or using our website, you agree to be bound by these Terms.
           </p>
         </div>
@@ -45,7 +45,7 @@ const Term = () => {
         <div className="col3_Term">
           <h2>2. Intellectual Property</h2>
           <p>
-            All content on this website, including text, graphics, logos, and images, is the property of Transbolt and is protected by copyright and other intellectual property laws.
+            All content on this website, including text, graphics, logos, and images, is the property of Traansbolt and is protected by copyright and other intellectual property laws.
             You may not copy, reproduce, or distribute any part of the site without our written permission.
           </p>
         </div>
@@ -60,7 +60,7 @@ const Term = () => {
         <div className="col5_Term">
           <h2>4. Limitation of Liability</h2>
           <p>
-            Transbolt is not liable for any direct, indirect, incidental, or consequential damages arising from your use of this website.
+            Traansbolt is not liable for any direct, indirect, incidental, or consequential damages arising from your use of this website.
             We provide all content "as is" and make no warranties of any kind.
           </p>
         </div>

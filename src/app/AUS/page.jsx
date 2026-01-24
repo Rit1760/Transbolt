@@ -11,7 +11,7 @@ export default function AUC(){
 <Image src="/images/Fire-Safety.png" width={333} height={303} alt="Fire-Safety"/>
                 </div>
                 <div className="col2_AUC">
-                    <p>Transbolt offers advanced, UL-certified fire safety solutions designed to meet global safety standards. Our systems are engineered to detect, respond, and prevent fire hazards in high-risk electrical and industrial environments — ensuring maximum protection and compliance.</p>
+                    <p>Traansbolt offers advanced, UL-certified fire safety solutions designed to meet global safety standards. Our systems are engineered to detect, respond, and prevent fire hazards in high-risk electrical and industrial environments — ensuring maximum protection and compliance.</p>
                <li>Eco-friendly: ETA-approved agents</li>
                <li> Certified: UL, EU, ATEX, IECEx for hazardous areas</li>
                <li>Sustainable green technology reducing impact</li>

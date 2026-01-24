@@ -151,7 +151,7 @@ export default function CompanyProfile() {
         <div className="row6_CF">
           <div className="col7_CF">
             <p>
-              At Transbolt, our vision is to be the leading force in powering safe,
+              At Traansbolt, our vision is to be the leading force in powering safe,
               resilient, and future-ready infrastructure across India and beyond. We
               are committed to redefining standards in earthing, lightning
               protection, and over-voltage protection by delivering innovative,

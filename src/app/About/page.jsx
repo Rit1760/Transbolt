@@ -41,26 +41,26 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About Us | Transbolt Lightning Protection Experts</title>
+        <title>About Us | Traansbolt Lightning Protection Experts</title>
         <meta
           name="description"
-          content="Learn more about Transbolt – India&apos;s trusted provider of lightning protection systems, earthing solutions, and surge protection. Experience. Innovation. Safety."
+          content="Learn more about Traansbolt – India&apos;s trusted provider of lightning protection systems, earthing solutions, and surge protection. Experience. Innovation. Safety."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="robots" content="index, follow" />
 
-        <meta property="og:title" content="About Transbolt | Lightning Protection Specialists" />
+        <meta property="og:title" content="About Traansbolt | Lightning Protection Specialists" />
         <meta
           property="og:description"
-          content="Transbolt is a leading lightning protection company in India, offering advanced earthing, surge protection, and LPS installation services."
+          content="Traansbolt is a leading lightning protection company in India, offering advanced earthing, surge protection, and LPS installation services."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.transbolt.in/About" />
-        <meta property="og:site_name" content="Transbolt" />
+        <meta property="og:url" content="https://www.traansbolt.in/About" />
+        <meta property="og:site_name" content="Traansbolt" />
 
         <meta
           name="keywords"
-          content="about Transbolt, lightning protection company India, surge protection experts, earthing specialists, lightning arresters, LPS India"
+          content="about Traansbolt, lightning protection company India, surge protection experts, earthing specialists, lightning arresters, LPS India"
         />
       </Head>
 
@@ -96,7 +96,7 @@ export default function About() {
       </div>
       <div className='row2_About_Popup'>
         <div className='col3_About_Popup'>
-<p>Brijesh Singh Malik is a seasoned leader with over 25 years of experience in lightning protection, earthing systems, surge protection, and power quality services. His career includes a significant tenure in Germany, where he worked in global business development, bringing international perspective, strategic insight, and a strong commitment to excellence. A Chartered Engineer and Fellow of the Institution of Engineers (India), Brijesh has played a pivotal role in major infrastructure projects across India—ranging from airports to high-speed rail to critical energy installations. His technical expertise, and visionary leadership continue to drive Transbolt's mission to deliver innovative and dependable electrical safety solutions worldwide.</p>
+<p>Brijesh Singh Malik is a seasoned leader with over 25 years of experience in lightning protection, earthing systems, surge protection, and power quality services. His career includes a significant tenure in Germany, where he worked in global business development, bringing international perspective, strategic insight, and a strong commitment to excellence. A Chartered Engineer and Fellow of the Institution of Engineers (India), Brijesh has played a pivotal role in major infrastructure projects across India—ranging from airports to high-speed rail to critical energy installations. His technical expertise, and visionary leadership continue to drive Traansbolt's mission to deliver innovative and dependable electrical safety solutions worldwide.</p>
         </div>
       </div>
     </div>
@@ -116,7 +116,7 @@ export default function About() {
       </div>
       <div className='row4_About_Popup'>
         <div className='col6_About_Popup'>
-<p>With over 20 years of experience in lightning protection, surge protection, and earthing systems, he brings deep technical expertise and a strong execution mindset to TransBolt. A former Air Force communication specialist, he applies a disciplined, solutions-driven approach to every project. His unique blend of engineering acumen, operational insight, and attention to detail ensures Transbolt consistently delivers innovative, high-performance safety solutions for critical infrastructure across diverse sectors and challenging environments. His leadership has been instrumental in executing complex, large-scale projects with precision, shows commitment to excellence in electrical safety.</p>
+<p>With over 20 years of experience in lightning protection, surge protection, and earthing systems, he brings deep technical expertise and a strong execution mindset to TraansBolt. A former Air Force communication specialist, he applies a disciplined, solutions-driven approach to every project. His unique blend of engineering acumen, operational insight, and attention to detail ensures Traansbolt consistently delivers innovative, high-performance safety solutions for critical infrastructure across diverse sectors and challenging environments. His leadership has been instrumental in executing complex, large-scale projects with precision, shows commitment to excellence in electrical safety.</p>
         </div>
       </div>
     </div>
@@ -139,7 +139,7 @@ export default function About() {
       </div>
       <div className='row6_About_Popup'>
         <div className='col9_About_Popup'>
-<p>Arnav Malik brings fresh insight and global perspective to Transbolt’s marketing and strategy team as he embarks on his new journey after graduating from the University of Glasgow. With a strong academic foundation and a passion for strategic communication, Arnav is focused on elevating Transbolt’s brand presence across India and globe. He plays a key role in positioning the company as a trusted leader in earthing, lightning protection, and over-voltage solutions. Supporting projects across critical infrastructure sectors such as airports, metros, PV plants, and telecom networks.Arnav is applying his experience across the startup ecosystems of India and the UK—gaining hands-on insight into diverse entrepreneurial landscapes while contributing to real-world business growth.</p>
+<p>Arnav Malik brings fresh insight and global perspective to Traansbolt’s marketing and strategy team as he embarks on his new journey after graduating from the University of Glasgow. With a strong academic foundation and a passion for strategic communication, Arnav is focused on elevating Traansbolt’s brand presence across India and globe. He plays a key role in positioning the company as a trusted leader in earthing, lightning protection, and over-voltage solutions. Supporting projects across critical infrastructure sectors such as airports, metros, PV plants, and telecom networks.Arnav is applying his experience across the startup ecosystems of India and the UK—gaining hands-on insight into diverse entrepreneurial landscapes while contributing to real-world business growth.</p>
         </div>
       </div>
     </div>
@@ -162,7 +162,7 @@ export default function About() {
       </div>
       <div className='row8_About_Popup'>
         <div className='col12_About_Popup'>
-<p>Himanshu brings a multidisciplinary approach to his role as Assistant Manager of Fire and Industrial Solutions at Transbolt. With a background in Electrical and Electronics Engineering, he combines technical expertise with practical experience across electrical systems, mechanical operations and sales.Himanshu is always looking for innovative ways to optimize time, cost, and efficiency on-site. From planning fire safety system layouts to managing site execution and maintenance, he ensures that every solution is well-planned, effective, and future-ready.</p>
+<p>Himanshu brings a multidisciplinary approach to his role as Assistant Manager of Fire and Industrial Solutions at Traansbolt. With a background in Electrical and Electronics Engineering, he combines technical expertise with practical experience across electrical systems, mechanical operations and sales.Himanshu is always looking for innovative ways to optimize time, cost, and efficiency on-site. From planning fire safety system layouts to managing site execution and maintenance, he ensures that every solution is well-planned, effective, and future-ready.</p>
         </div>
       </div>
     </div>

@@ -12,10 +12,10 @@ export default function BESS(){
 <Image src="/images/BESS.png" width={333} height={303} alt="BESS"/>
                 </div>
                 <div className="col2_BESS">
-                    <p>Transbolt Battery Energy Storage Systems (BESS) deliver reliable backup, peak shaving, and grid support with scalable, modular designs. ESG-compliant and future-ready, they reduce operating costs while ensuring efficient, safe, and sustainable energy optimization for industrial, commercial, and utility applications.</p>
+                    <p>Traansbolt Battery Energy Storage Systems (BESS) deliver reliable backup, peak shaving, and grid support with scalable, modular designs. ESG-compliant and future-ready, they reduce operating costs while ensuring efficient, safe, and sustainable energy optimization for industrial, commercial, and utility applications.</p>
 <h3>Product Overview</h3>
 <h4>T500KW-1075KWh</h4>
-<h4>Transbolt – 01MWh Energy Storage System</h4>
+<h4>Traansbolt – 01MWh Energy Storage System</h4>
 <ul>
   <li>Includes LiFePO₄ battery, BMS, PCS, EMS,
 cooling, and fire protection.</li>
@@ -30,7 +30,7 @@ and black start enabled.</li>
 EN50549</li>
 </ul>
 <h4>T5000A-2H-X2</h4>
-<h4>Transbolt - 05MWh Battery Energy Storage System</h4>
+<h4>Traansbolt - 05MWh Battery Energy Storage System</h4>
 <ul>
   <li>5.01 MWh capacity with 2.5 MW output;
 2155A Max rated current</li>

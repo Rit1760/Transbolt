@@ -10,7 +10,7 @@ export default function SVS(){
                 </div>
                 <div className="col2_SVS">
                     {/* <p>Transbolt supports solar and battery storage projects with reliable earthing, surge, and lightning protection systems. Our solutions ensure the safety, stability, and longevity of renewable energy infrastructure across all scales — from rooftop setups to utility-scale plants.</p> */}
-               <p>Transbolt is actively executing Solar EPC projects for industrial
+               <p>Traansbolt is actively executing Solar EPC projects for industrial
 facilities, data centers, and commercial establishments — with
 system capacities of up to 20MW.
 With a strong foundation in power safety, grounding, and

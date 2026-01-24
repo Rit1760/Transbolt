@@ -11,7 +11,7 @@ export default function SOV(){
                     <Image src="/images/three3.png" width={333} height={303} alt="three33"/>
                 </div>
                 <div className="col2_SOV">
-                    <p>Transbolt's smart over-voltage protection systems are designed to detect and neutralize voltage spikes instantly, safeguarding sensitive equipment and infrastructure. With real-time response and advanced technology, we ensure continuous protection against power surges and electrical faults.</p>
+                    <p>Traansbolt's smart over-voltage protection systems are designed to detect and neutralize voltage spikes instantly, safeguarding sensitive equipment and infrastructure. With real-time response and advanced technology, we ensure continuous protection against power surges and electrical faults.</p>
                 <li> Smart Surge Protection for low voltage power system</li>
                 <li> Surge protection for communication & signaling systems</li>
                 </div>
