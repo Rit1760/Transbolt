@@ -9,17 +9,17 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Our Projects | Transbolt Lightning Protection Across India</title>
-        <meta name="description" content="Explore Transbolt's completed lightning protection projects across residential, industrial, and commercial sectors. Trusted by leading clients across India." />
+        <title>Our Projects | Traansbolt Lightning Protection Across India</title>
+        <meta name="description" content="Explore Traansbolt's completed lightning protection projects across residential, industrial, and commercial sectors. Trusted by leading clients across India." />
         <meta name="robots" content="index, follow" />
 
-        <meta property="og:title" content="Transbolt | Lightning Protection Project Portfolio" />
+        <meta property="og:title" content="Traansbolt | Lightning Protection Project Portfolio" />
         <meta property="og:description" content="View our successful lightning protection system implementations for factories, commercial buildings, hospitals, schools, and infrastructure sites across India." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.transbolt.in/projects" />
-        <meta property="og:site_name" content="Transbolt" />
+        <meta property="og:site_name" content="Traansbolt" />
 
-        <meta name="keywords" content="lightning protection projects, lightning arrestor installation, electrical safety systems, earthing projects, industrial lightning protection, Transbolt India" />
+        <meta name="keywords" content="lightning protection projects, lightning arrestor installation, electrical safety systems, earthing projects, industrial lightning protection, Traansbolt India" />
       </Head>
       <div>
         <div className="cont1_projects" >
@@ -27,7 +27,7 @@ export default function Projects() {
             <div className="col1_projects">
               <h2>Our Expertise</h2>
               <p>
-                At Transbolt, we deliver cutting-edge protection solutions tailored for the world's most critical infrastructure. From tank farms and refineries to high-speed rail, telecom sites, and data centers, our systems ensure uncompromised safety and reliability.
+                At Traansbolt, we deliver cutting-edge protection solutions tailored for the world's most critical infrastructure. From tank farms and refineries to high-speed rail, telecom sites, and data centers, our systems ensure uncompromised safety and reliability.
               </p>
             </div>
           </div>

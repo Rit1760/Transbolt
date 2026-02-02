@@ -43,26 +43,26 @@ export default function CompanyProfile() {
         <title>About Us | Traansbolt Lightning Protection Experts</title>
         <meta
           name="description"
-          content="CompanyProfile Transbolt – India&apos;s trusted provider of lightning protection systems, earthing solutions, and surge protection. Experience. Innovation. Safety."
+          content="CompanyProfile Traansbolt – India&apos;s trusted provider of lightning protection systems, earthing solutions, and surge protection. Experience. Innovation. Safety."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="robots" content="index, follow" />
 
         <meta
           property="og:title"
-          content="About Transbolt | Lightning Protection Specialists"
+          content="About Traansbolt | Lightning Protection Specialists"
         />
         <meta
           property="og:description"
-          content="Transbolt is a leading lightning protection company in India, offering advanced earthing, surge protection, and LPS installation services."
+          content="Traansbolt is a leading lightning protection company in India, offering advanced earthing, surge protection, and LPS installation services."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.transbolt.in/About" />
-        <meta property="og:site_name" content="Transbolt" />
+        <meta property="og:url" content="https://www.traansbolt.in/About" />
+        <meta property="og:site_name" content="Traansbolt" />
 
         <meta
           name="keywords"
-          content="about Transbolt, lightning protection company India, surge protection experts, earthing specialists, lightning arresters, LPS India"
+          content="about Traansbolt, lightning protection company India, surge protection experts, earthing specialists, lightning arresters, LPS India"
         />
       </Head>
 

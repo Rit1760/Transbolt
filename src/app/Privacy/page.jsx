@@ -7,25 +7,25 @@ const Privacy = () => {
   return (
     <>
       <Head>
-        <title>Privacy Policy | Transbolt Lightning Protection India</title>
+        <title>Privacy Policy | Traansbolt Lightning Protection India</title>
         <meta
           name="description"
-          content="Read Transbolt's privacy policy to understand how we collect, use, and protect your data. Your privacy matters to us."
+          content="Read Traansbolt's privacy policy to understand how we collect, use, and protect your data. Your privacy matters to us."
         />
         <meta name="robots" content="index, follow" />
 
-        <meta property="og:title" content="Transbolt | Privacy Policy" />
+        <meta property="og:title" content="Traansbolt | Privacy Policy" />
         <meta
           property="og:description"
-          content="This privacy policy explains how Transbolt handles your personal data when you use our website and services."
+          content="This privacy policy explains how Traansbolt handles your personal data when you use our website and services."
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.transbolt.in/Privacy" />
-        <meta property="og:site_name" content="Transbolt" />
+        <meta property="og:site_name" content="Traansbolt" />
 
         <meta
           name="keywords"
-          content="Transbolt privacy policy, lightning protection privacy, data protection India, website privacy, data usage terms, user privacy Transbolt"
+          content="Traansbolt privacy policy, lightning protection privacy, data protection India, website privacy, data usage terms, user privacy Transbolt"
         />
       </Head>
       <div className="container1_Privacy">
@@ -33,7 +33,7 @@ const Privacy = () => {
         <div className="col1_Privacy">
           <p>Effective Date: June 9, 2025</p>
           <p>
-            At <strong>Transbolt</strong>, your privacy is important to us. This
+            At <strong>Traansbolt</strong>, your privacy is important to us. This
             Privacy Policy outlines how we collect, use, and protect your
             personal information when you use our website and services.
           </p>

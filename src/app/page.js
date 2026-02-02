@@ -216,7 +216,7 @@ measures.</p>
   Committed to a
   <span style={{ color: '#1f90ff' }}> Greener Future</span>
 </h2>
-                    <p>At Transbolt, sustainability powers every connection. Our earthing, lightning,
+                    <p>At Traansbolt, sustainability powers every connection. Our earthing, lightning,
 and surge protection solutions are designed for safety, performance, and long
 -term environmental responsibility.</p>
 <ul>
@@ -233,6 +233,7 @@ across sectors like energy, transport, and telecom.</p>
                 </div>
             </div>
         </div>
+
 
 
     <div className="container4_H">

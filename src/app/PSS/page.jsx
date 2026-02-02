@@ -10,7 +10,7 @@ export default function PSS(){
                     <Image src="/images/ser5.png" width={333} height={303} alt="ser55"/>
                 </div>
                 <div className="col2_PSS">
-                    <p>Transbolt supports solar and battery storage projects with reliable earthing, surge, and lightning protection systems. Our solutions ensure the safety, stability, and longevity of renewable energy infrastructure across all scales — from rooftop setups to utility-scale plants.</p>
+                    <p>Traansbolt supports solar and battery storage projects with reliable earthing, surge, and lightning protection systems. Our solutions ensure the safety, stability, and longevity of renewable energy infrastructure across all scales — from rooftop setups to utility-scale plants.</p>
                 <li> End-to-end Solar EPC solutions for small & medium-scale projects</li>
                 <li> Cutting-edge engineering with efficient procurement</li>
                 <li> Reliable, sustainable infrastructure via solar innovation</li>

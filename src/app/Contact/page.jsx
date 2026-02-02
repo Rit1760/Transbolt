@@ -15,25 +15,26 @@ export default function Contact() {
         <title>Contact Us | Traansbolt Lightning Protection India</title>
         <meta
           name="description"
-          content="Get in touch with Transbolt for lightning protection solutions, consultations, and service inquiries. We're here to help you stay protected."
+          content="Get in touch with Traansbolt for lightning protection solutions, consultations, and service inquiries. We're here to help you stay protected."
         />
         <meta name="robots" content="index, follow" />
 
+
         <meta
           property="og:title"
-          content="Transbolt | Contact Our Lightning Protection Experts"
+          content="Traansbolt | Contact Our Lightning Protection Experts"
         />
         <meta
           property="og:description"
-          content="Reach out to Transbolt for expert guidance on lightning protection systems, installations, and safety compliance across India."
+          content="Reach out to Traansbolt for expert guidance on lightning protection systems, installations, and safety compliance across India."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.transbolt.in/Contact" />
-        <meta property="og:site_name" content="Transbolt" />
+        <meta property="og:url" content="https://www.traansbolt.in/Contact" />
+        <meta property="og:site_name" content="Traansbolt" />
 
         <meta
           name="keywords"
-          content="contact Transbolt, lightning protection contact, lightning system inquiry, surge protection quote, lightning safety help, Transbolt India"
+          content="contact Traansbolt, lightning protection contact, lightning system inquiry, surge protection quote, lightning safety help, Transbolt India"
         />
       </Head>
 

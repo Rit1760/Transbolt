@@ -1,3 +1,7 @@
+
+"use client"
+
+
 import Link from "next/link"
 import "../Styles/Header.css";
 import React, { useState } from 'react';
