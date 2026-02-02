@@ -50,7 +50,7 @@ import CursorWrapper from "../Components/CurserWrapper.jsx";
 import Loading from "./Loading.jsx";
 
 export const metadata = {
-  title: "My Website",
+  title: "Traansbolt",
   icons: {
     icon: "/favi.ico",
   },
