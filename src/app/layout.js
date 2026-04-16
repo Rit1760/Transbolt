@@ -8,8 +8,6 @@
 
 
 
-
-
 // export default function RootLayout({ children }) {
 //   useEffect(() => {
 //     const crsr = document.querySelector("#crsr");

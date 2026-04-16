@@ -157,7 +157,7 @@
 
 
 .about-column3 {
-    width: 100%;
+    width: 50%;
     box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.1);
     padding: 20px;
     box-sizing: border-box;
@@ -170,7 +170,6 @@
     transform: translateY(-5px);
     cursor: pointer;
 }
-
 
 .about-column4 {
     width: 100%;

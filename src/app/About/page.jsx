@@ -147,7 +147,7 @@ export default function About() {
 {/* end 3 */}
 
 {/* 4 */}
-<Popup show={showPopup3} onClose={() => setShowPopup3(false)}>
+{/* <Popup show={showPopup3} onClose={() => setShowPopup3(false)}>
     <div className='cont4_About_Popup'>
       <div className='row7_About_Popup'>
         <div className='col10_About_Popup'>
@@ -166,7 +166,7 @@ export default function About() {
         </div>
       </div>
     </div>
-</Popup>
+</Popup> */}
 
 {/* end 4 */}
 
@@ -180,12 +180,12 @@ export default function About() {
         <h4>Business Operations</h4>
         <a href='#' className="read-more" onClick={handleReadMoreClick2}>Read more</a>
       </div>
-      <div className="about-column4 about-column">
+      {/* <div className="about-column4 about-column">
         <Image src="/images/himanshu.png" width={290} height={390} alt="himanshu" />
         <h3>Himanshu Singh</h3>
         <h4>Fire Safety & Industrial Solutions AM</h4>
         <a href='#' className="read-more" onClick={handleReadMoreClick3}>Read more</a>
-      </div>
+      </div> */}
     </div>
   </div>
 </div>
