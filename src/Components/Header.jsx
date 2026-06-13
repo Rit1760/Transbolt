@@ -1,4 +1,78 @@
 
+// "use client"
+
+
+// import Link from "next/link"
+// import "../Styles/Header.css";
+// import React, { useState } from 'react';
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import { faBars } from "@fortawesome/free-solid-svg-icons";
+
+// export default function Header() {
+//   const [showDropdown, setShowDropdown] = useState(false);
+//   const [menuVisible, setMenuVisible] = useState(false);
+
+//   const toggleMenu = () => {
+//     setMenuVisible((prev) => !prev);
+//   };
+
+
+//     return(
+//         <>
+//   <div className="container1_Header">
+//     <div className="row1_Header">
+//       <div className="col1_Header">
+       
+//        <img src="../images/TRANS2R.png" width={230} alt="TRANS2" />
+//       </div>
+
+
+       
+//         <div className="col3_Header" onClick={toggleMenu}>
+//           <FontAwesomeIcon icon={faBars} />
+//         </div>
+
+//         <div
+//           className={`col2_Header ${menuVisible ? "visible" : "hidden"}`}
+//         >
+//       <ul className="menu">
+//         <li><Link href="/">Home</Link></li>
+
+//         <li
+//           className="dropdown"
+//           onMouseEnter={() => setShowDropdown(true)}
+//           onMouseLeave={() => setShowDropdown(false)}
+//         >
+//           <span>About Us</span>
+
+//           {showDropdown && (
+//             <ul className="dropdown-menu">
+//               <li><Link href="/About">Leadership</Link></li>
+//               <li><Link href="/CompanyProfile">Company Profile</Link></li>
+//             </ul>
+//           )}
+//         </li>
+
+//         <li><Link href="/Solutions">Solutions</Link></li>
+
+
+
+
+//         <li><Link href="/Services">Services</Link></li>
+//         <li><Link href="/Projects">Projects</Link></li>
+//         <li><Link href="/Contact">Contact</Link></li>
+//       </ul>
+//     </div>
+//  </div>
+//   </div>
+//         </>
+//     )
+// }
+
+
+
+
+
 "use client"
 
 
@@ -12,6 +86,9 @@ export default function Header() {
   const [showDropdown, setShowDropdown] = useState(false);
   const [menuVisible, setMenuVisible] = useState(false);
 
+const [showAboutDropdown, setShowAboutDropdown] = useState(false);
+const [showSolutionsDropdown, setShowSolutionsDropdown] = useState(false);
+
   const toggleMenu = () => {
     setMenuVisible((prev) => !prev);
   };
@@ -22,7 +99,6 @@ export default function Header() {
   <div className="container1_Header">
     <div className="row1_Header">
       <div className="col1_Header">
-       {/* <img src="../images/transbolt-logo.png" width={230} alt="transbolt-logo" /> */}
        <img src="../images/TRANS2R.png" width={230} alt="TRANS2" />
       </div>
 
@@ -38,22 +114,44 @@ export default function Header() {
       <ul className="menu">
         <li><Link href="/">Home</Link></li>
 
+
         <li
-          className="dropdown"
-          onMouseEnter={() => setShowDropdown(true)}
-          onMouseLeave={() => setShowDropdown(false)}
-        >
-          <span>About Us</span>
+  className="dropdown"
+  onMouseEnter={() => setShowAboutDropdown(true)}
+  onMouseLeave={() => setShowAboutDropdown(false)}
+>
+  <span>About Us</span>
 
-          {showDropdown && (
-            <ul className="dropdown-menu">
-              <li><Link href="/About">Leadership</Link></li>
-              <li><Link href="/CompanyProfile">Company Profile</Link></li>
-            </ul>
-          )}
-        </li>
+  {showAboutDropdown && (
+    <ul className="dropdown-menu">
+      <li><Link href="/About">Leadership</Link></li>
+      <li><Link href="/CompanyProfile">Company Profile</Link></li>
+    </ul>
+  )}
+</li>
 
-        <li><Link href="/Solutions">Solutions</Link></li>
+
+
+<li
+  className="dropdownSolutions"
+  onMouseEnter={() => setShowSolutionsDropdown(true)}
+  onMouseLeave={() => setShowSolutionsDropdown(false)}
+>
+  <span>Solutions</span>
+
+  {showSolutionsDropdown && (
+    <ul className="dropdown-menu_Solutions">
+      <li><Link href="/TraansboltFire">Traansbolt Fire</Link></li>
+      <li><Link href="/TraansEARTH">TraansEARTH</Link></li>
+      <li><Link href="/LightPrev">Lightning Prevention</Link></li>
+      <li><Link href="/SolarEPC">Solar EPC</Link></li>
+    </ul>
+  )}
+</li>
+
+
+
+
         <li><Link href="/Services">Services</Link></li>
         <li><Link href="/Projects">Projects</Link></li>
         <li><Link href="/Contact">Contact</Link></li>
