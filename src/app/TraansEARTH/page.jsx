@@ -54,7 +54,7 @@ export default function TraansEARTH() {
         <div className="earthGrid">
           <div className="earthImage">
             <Image
-              src="/Images/E1.png"
+              src="/images/E1.png"
               alt="TraansEARTH Compound"
               width={500}
               height={300}
@@ -156,7 +156,7 @@ export default function TraansEARTH() {
 
           <div className="appImage">
             <Image
-              src="/Images/E2.png"
+              src="/images/E2.png"
               alt="Earthing Applications"
               width={500}
               height={300}
