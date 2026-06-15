@@ -54,10 +54,11 @@ export default function TraansEARTH() {
         <div className="earthGrid">
           <div className="earthImage">
             <Image
-              src="/images/E1.png"
+              // src="/images/E1.png"
+              src="/images/EO.jpeg"
               alt="TraansEARTH Compound"
               width={500}
-              height={300}
+              height={500}
             />
           </div>
 
