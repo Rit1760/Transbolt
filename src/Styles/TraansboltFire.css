@@ -16,6 +16,8 @@
 :root {
   --primary: #096abb;
   --secondary: #0d4f87;
+    /* --primary: #000000;
+  --secondary: #000000; */
   --light: #f5f9fc;
   --white: #ffffff;
   --text: #333333;

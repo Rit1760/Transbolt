@@ -128,7 +128,6 @@ export default function SolarEPC() {
         </div>
       </section>
 
-      {/* Process */}
       <section className="epcProcess">
         <div className="sectionHeading">
           <h2>Complete End-to-End EPC Solutions</h2>
@@ -193,7 +192,7 @@ export default function SolarEPC() {
           Let's build a cleaner, more sustainable energy future together.
         </p>
 
-        <button>Talk To Our Experts →</button>
+        <button href="/Contact">Talk To Our Experts →</button>
       </section>
     </div>
   );

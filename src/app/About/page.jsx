@@ -177,7 +177,7 @@ export default function About() {
       <div className="about-column3 about-column">
         <Image src="/images/Arnav.png" width={290} height={405} alt="Arnav" />
         <h3>Arnav Malik</h3>
-        <h4>Business Operations</h4>
+        <h4>Business Operations & Strategy</h4>
         <a href='#' className="read-more" onClick={handleReadMoreClick2}>Read more</a>
       </div>
       {/* <div className="about-column4 about-column">

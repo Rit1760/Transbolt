@@ -33,11 +33,12 @@ export default function Footer() {
   
           <div className="col5_footer">
           {/* <h2>TRANSBOLT</h2> */}
-            <p>
+            {/* <p>
               We are<b> INDIA'S FIRST</b> company to provide comprehensive Earthing, Lightning Protection,
               and Over-voltage Protection solutions, establishing a legacy of unparalleled safety and
               reliability. Our mission: Protect lives, assets, and ensure a smarter, safer future.
-            </p>
+            </p> */}
+            <p>Traansbolt delivers integrated energy, safety, and infrastructure solutions that power, protect, and strengthen critical assets. From Battery Energy Storage Systems and Solar EPC to Fire Safety, Lightning Protection, Earthing, and Power Quality Solutions, we help organizations build safer, more resilient, and future-ready operations.</p>
           </div>
   
           <div className="col6_footer">

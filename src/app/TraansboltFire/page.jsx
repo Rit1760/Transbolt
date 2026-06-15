@@ -9,12 +9,14 @@ import {
   faIndustry,
 } from "@fortawesome/free-solid-svg-icons";
 
+
 export default function TraansboltFire() {
   const stats = [
     { number: "25+", title: "Years Experience" },
     { number: "1000+", title: "Projects Delivered" },
     { number: "500+", title: "Happy Clients" },
-    { number: "PAN India", title: "Presence" },
+    // { number: "India & Beyond", title: "Presence" },
+    { number: "India & Beyond" },
   ];
 
 const solutions = [
