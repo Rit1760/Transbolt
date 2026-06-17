@@ -30,13 +30,6 @@
   font-family: "Lato", sans-serif;
 }
 
-
-
-
-
-
-
-
 .icon {
   font-size: 3rem;
   margin-bottom: 15px;
@@ -65,15 +58,6 @@
 .solution_card:nth-child(6) .icon {
   color: #20c997;
 }
-
-
-
-
-
-
-
-
-
 
 /* ================= HERO ================= */
 
@@ -149,8 +133,6 @@
 } */
 
 
-
-
 .hero_TraansboltFire {
   position: relative;
   width: 100%;
@@ -222,13 +204,6 @@
 .hero_overlay_TraansboltFire button:hover {
   transform: translateY(-3px);
 } */
-
-
-
-
-
-
-
 
 
 
