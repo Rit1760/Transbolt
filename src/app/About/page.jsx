@@ -121,16 +121,14 @@ export default function About() {
       </div>
     </div>
 </Popup>
-{/* end 2 */}
 
 
-{/* 3 */}
 <Popup show={showPopup2} onClose={() => setShowPopup2(false)}>
 
     <div className='cont3_About_Popup'>
       <div className='row5_About_Popup'>
         <div className='col7_About_Popup'>
-        <Image src="/images/ArAi.jpeg" width={290} height={305} alt="Arnav" />
+        <Image src="/images/ArAi.png" width={290} height={305} alt="Arnav" />
         </div>
         <div className='col8_About_Popup'>
    <h3>Arnav Malik</h3><Link href="https://www.linkedin.com/in/arnav-malik-/"><FontAwesomeIcon icon={faLinkedin} style={{fontSize:"30px",color:"#1f90ff",marginBottom:"10px",cursor:"pointer"}}/></Link>
@@ -175,7 +173,7 @@ export default function About() {
 
     <div className="row2_About">
       <div className="about-column3 about-column">
-        <Image src="/images/ArAi.jpeg" width={290} height={305} alt="Arnav" />
+        <Image src="/images/ArAi.png" width={290} height={305} alt="Arnav" />
         <h3>Arnav Malik</h3>
         <h4>Business Operations & Strategy</h4>
         <a href='#' className="read-more" onClick={handleReadMoreClick2}>Read more</a>
